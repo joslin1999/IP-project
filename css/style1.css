@@ -1,0 +1,23 @@
+.container
+{
+margin-top:10px;
+}
+
+.new
+{
+background: green;
+width: 80px;
+color: white;
+font-size: 12px;
+fonr-weight: bold;
+}
+
+.clock
+{
+height: 20px;
+}
+
+.step
+{
+height: 80px;
+}
